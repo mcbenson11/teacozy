@@ -46,8 +46,7 @@ h4 {
   padding-top: 70px;
   height: 700px;
   width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   align-items: center;
 }
 
@@ -79,6 +78,16 @@ h4 {
   opacity: 1;
   background-color: black;
   padding-top: 30px;
+}
+
+h3.location {
+  margin: 20px;
+}
+
+.locationcontainer {
+  width: 980px;
+  align-items: center;
+  justify-content: space-between;
 }
 
 #copyright {
