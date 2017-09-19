@@ -8,6 +8,18 @@ body {
   margin: 0;
 }
 
+h2 {
+  margin: 10px;
+}
+
+h3 {
+  margin: 10px;
+}
+
+h4 {
+  margin: 10px;
+}
+
 .flex {
   display: flex;
 }
@@ -31,17 +43,16 @@ body {
 
 .mission {
   background-image: url(images/img-mission-background.jpg);
+  padding-top: 70px;
   height: 700px;
   width: 1200px;
   margin-left: auto;
   margin-right: auto;
   align-items: center;
-  padding-top: 70px;
 }
 
 .missiontext {
   background-color: black;
-  height: 100px;
   width: 1200px;
 }
 
@@ -67,6 +78,7 @@ body {
   height: 300px;
   opacity: 1;
   background-color: black;
+  padding-top: 30px;
 }
 
 #copyright {
