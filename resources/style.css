@@ -41,7 +41,11 @@ h4 {
   text-decoration: underline;
 }
 
-.mission {
+.main{
+    padding-top: 70px;
+}
+
+#mission {
   background-image: url(images/img-mission-background.jpg);
   padding-top: 70px;
   height: 700px;
@@ -78,10 +82,6 @@ h4 {
   opacity: 1;
   background-color: black;
   padding-top: 30px;
-}
-
-h3.location {
-  margin: 20px;
 }
 
 .locationcontainer {
