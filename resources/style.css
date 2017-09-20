@@ -83,6 +83,21 @@ h4 {
 .locationbg {
   background-image: url(images/img-locations-background.jpg);
   height: 500px;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  justify-content: center;
+}
+
+.locationcontainer {
+  width: 980px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 250px;
+  margin-left: 110px;
 }
 
 .location {
@@ -93,10 +108,8 @@ h4 {
   padding-top: 30px;
 }
 
-.locationcontainer {
-  width: 980px;
-  align-items: center;
-  justify-content: space-between;
+.footer {
+  padding-bottom: 40px;
 }
 
 #copyright {
