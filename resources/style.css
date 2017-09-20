@@ -41,6 +41,10 @@ h4 {
   text-decoration: underline;
 }
 
+#navmarginright {
+  margin-right: 10px;
+}
+
 .main{
     padding-top: 70px;
 }
